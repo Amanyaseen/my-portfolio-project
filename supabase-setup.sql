@@ -1,0 +1,2 @@
+-- Supabase SQL setup is not used in this project.
+-- The backend uses an embedded H2 in-memory database configured in backend/src/main/resources/application.properties.
